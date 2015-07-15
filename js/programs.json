@@ -1,0 +1,15 @@
+[{"ProgramName" : "Bachelors of Science in computer engineering",
+  "StaringYear": "2008",
+  "Accrediated by Abet" : "Yes",
+  "Credits": "134"},
+
+  {"ProgramName" : "Bachelors of Science in electrical",
+    "StaringYear": "2008",
+    "Accrediated by Abet" : "Yes",
+    "Credits": "134"},
+
+  {"ProgramName" : "Master of Science in electrical",
+    "StaringYear": "2008",
+    "Accrediated by Abet" : "Yes",
+    "Credits": "134"}
+ ]

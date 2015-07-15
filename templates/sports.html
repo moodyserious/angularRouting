@@ -1,0 +1,28 @@
+<div class="container-fluid">
+	<div class="col-md-8">
+		<h2> Titles Won by City </h2>
+		<p> The following table lists the UAE football champions by city.</p>
+
+		<table class="table table-bordered ">
+			<thead>
+
+			<tr><th> City</th>
+			     <th> Titles</th>
+			     <th> Winning Clubs</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr ng-repeat="item in winners">
+				<td>{{item.city}}</td>
+				<td>{{item.titles}}</td>
+				<td>{{item.winningclubs}}</td>
+			</tr>
+
+			</tbody>
+		</table>  <!-- End of scoreboard -->
+	</div>
+
+	<div class="col-md-4">
+		<img src="img/3.jpg" style="height:290px">
+	</div>
+</div>
